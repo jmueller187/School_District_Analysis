@@ -1,5 +1,5 @@
 # School_District_Analysis
-Module 4 School District Analysis
+
 ## Overview of the school district analysis: 
 The purpose of the this analysis was to evaluate and summarize student funding and student standardized test scores for 15 schools with over 39,000 students in a local school district. We were asked to aggregate the data, and identify trends in school performance across ths district to assist with decision making on schuul budgets and priorities.
 Once this analysis was complete, it was discovered that there was evidence of academic dishonesty among the math and reading grades for the 9th grade students at Thomas High School. In an effort to uphond the testing standards set by the state, we were asked to remove the math and reading scores for the Thomas High School 9th graders, and replace them with NaN values and repeat the full district analysis with the remaining data intact
@@ -25,7 +25,7 @@ Once this analysis was complete, it was discovered that there was evidence of ac
 
 ![Passing percentages with all students included](https://github.com/jmueller187/School_District_Analysis/blob/main/Resources/ThomasHSAllStudents.png)
 
-![Passing percentages with Thomas High School 9th grade removed](https://github.com/jmueller187/School_District_Analysis/blob/main/Resources/ThomasHSAllStudents.png)
+![Passing percentages with Thomas High School 9th grade removed](https://github.com/jmueller187/School_District_Analysis/blob/main/Resources/ThomasHS9thGradeRemoved.png)
 
 ![Top 5 Performing Schools](https://github.com/jmueller187/School_District_Analysis/blob/main/Resources/Top5PerformingSchools.png)
 
